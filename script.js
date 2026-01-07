@@ -12,7 +12,7 @@
     const CheckWin = ()=>{
         let BoxTexts = document.querySelectorAll(".BoxText");
 
-   let Wins = [ [0, 1, 2 ,8, ,8 ,0],
+   let Wins = [ [0, 1, 2 ,8, 8 ,0],
     [3, 4, 5 ,8, 24, 0], 
     [6, 7, 8 ,8 ,40, 0], 
     [0, 3, 6 ,-8, 24, 90], 
